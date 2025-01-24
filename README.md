@@ -1,16 +1,24 @@
-# fire_appp
+# Corporate Firefighting Team Management System
 
-A new Flutter project.
+## Project Description
+Firefighting Team Management System is a mobile application designed for easily tracking, recording, and managing firefighting equipment and cylinders. This project is developed using **Flutter** and utilizes the **Firebase** infrastructure.
 
-## Getting Started
+### Key Features
+- **User Management:**
+  - Sign in with Google.
+  - Users can add, edit, and delete records.
+- **QR Code Operations:**
+  - Users can generate QR codes for records and save them as PDF files.
+  - Access specific data by scanning QR codes using the camera.
+- **Data Storage and Management:**
+  - Records are stored in Firebase Firestore.
+  - Images and documents are stored in Firebase Storage.
 
-This project is a starting point for a Flutter application.
+## Technologies and Packages Used
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Technologies
+- **Flutter:** For application development.
+- **Firebase:**
+  - Firestore: For data storage and management.
+  - Authentication: For Google sign-in.
+  - Storage: For storing media files.
