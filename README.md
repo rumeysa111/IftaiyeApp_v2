@@ -1,4 +1,4 @@
-# Corporate Firefighting Team Management System
+#  Firefighting Team Management System
 
 ## Project Description
 Firefighting Team Management System is a mobile application designed for easily tracking, recording, and managing firefighting equipment and cylinders. This project is developed using **Flutter** and utilizes the **Firebase** infrastructure.
